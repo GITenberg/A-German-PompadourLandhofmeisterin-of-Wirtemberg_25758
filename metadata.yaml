@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '31558'
     url: http://www.gutenberg.org/2009/agents/31558
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25758#A-German-PompadourLandhofmeisterin-of-Wirtemberg
 gutenberg_issued: '2008-06-11'
 gutenberg_type: Text
 identifiers:
